@@ -10,7 +10,7 @@
     "test": "cloud test"
   },
   "dependencies": {
-    "@jest/globals": "^27.2.5",
+    "@jest/globals": "^27.5.1",
     "cors": "^2.8.5",
     "jsonwebtoken": "^8.5.1",
     "ksuid": "^2.0.0",
