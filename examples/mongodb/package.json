@@ -16,6 +16,6 @@
     "org": "serverless"
   },
   "dependencies": {
-    "mongodb": "^4.3.1"
+    "mongodb": "^4.4.1"
   }
 }
