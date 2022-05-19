@@ -17,7 +17,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "jimp": "^0.16.1",
-    "node-fetch": "^3.1.0"
+    "node-fetch": "^3.2.4"
   },
   "serverless": {
     "app": "image-resizer",
