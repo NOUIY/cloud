@@ -9,7 +9,7 @@
     "test": "cloud test"
   },
   "devDependencies": {
-    "@serverless/cloud": "^2.0.0",
+    "@serverless/cloud": "^2.11.8",
     "@types/jest": "^26.0.24",
     "supertest": "^6.1.6"
   },
