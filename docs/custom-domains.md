@@ -24,7 +24,7 @@ To map a custom domain to your application, you must first prove ownership of th
 
 ![VerifyDomain](https://user-images.githubusercontent.com/85096820/141490291-17839dc2-b497-4e50-9fca-9b236e328284.png)
 
-- Go into the DNS page of your domain registrar and add the CNAME there. Note that some registrars require you to provide the whole string for the Name, while others need only the part of your custom domain name, `_4453ae612288a32ae779be80e251735c.cooldomain` in our example. Godaddy, for example, warns you about this issue if you enter the whole string in the Name area.
+- Go into the DNS page of your domain registrar and add the CNAME there. Note that some registrars require you to provide the whole string for the Name, while others need only the part of your custom domain name, `_4453ae612288a32ae779be80e251735c.cooldomain` in our example. Godaddy, for example, warns you about this issue if you enter the whole string in the Name area. Google Domains also do not need the full domain but they don't give you a warning.
 
 ![VerifyDomain2](https://user-images.githubusercontent.com/85096820/141490356-b7aab089-436d-41c5-9259-b48b52679356.png)
 
