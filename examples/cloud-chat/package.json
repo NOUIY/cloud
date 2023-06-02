@@ -17,7 +17,7 @@
     "cookie-parser": "^1.4.6",
     "jsonwebtoken": "^8.5.1",
     "ksuid": "^3.0.0",
-    "long": "^5.2.0",
+    "long": "^5.2.3",
     "next": "^12.0.10",
     "nodes2ts": "^2.0.0",
     "uuid": "^8.3.2"
