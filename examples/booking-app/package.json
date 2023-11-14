@@ -18,7 +18,7 @@
     "bcryptjs": "^2.4.3",
     "jsonwebtoken": "^8.5.1",
     "luxon": "^2.0.1",
-    "ramda": "^0.27.1"
+    "ramda": "^0.29.0"
   },
   "devDependencies": {
     "@jest/globals": "^27.1.0",
