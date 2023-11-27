@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "is-absolute-url": "^3.0.3",
-    "nanoid": "^3.1.20"
+    "nanoid": "^3.3.7"
   },
   "serverless": {
     "org": "serverless",
